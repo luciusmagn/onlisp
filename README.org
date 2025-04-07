@@ -1,0 +1,9 @@
+* Paul Graham's On Lisp
+
+Compile with:
+
+#+begin_src
+typst compile --font-path . onlisp.typ
+#+end_src
+
+(Possibly also change Berkeley Mono to a different font at the top of the file, if you don't have it)
